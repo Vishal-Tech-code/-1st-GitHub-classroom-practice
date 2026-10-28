@@ -1,2 +1,2 @@
-# -1st-GitHub-classroom-practice
+# GitHub-practice
 My first Git and Github practice
